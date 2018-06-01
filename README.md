@@ -33,3 +33,9 @@
 
 
 ![](https://github.com/ttanzhiqiang/Sentiment-analysis/blob/master/1.png)
+
+可以看出高兴的和不高兴得到的评分是不一样的
+
+在0.80之上可以判断为高兴
+
+0.70以下可以判断为不高兴
