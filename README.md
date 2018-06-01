@@ -32,3 +32,4 @@
 简单的情感分析
 
 
+![](https://github.com/ttanzhiqiang/Sentiment-analysis/blob/master/1.png)
